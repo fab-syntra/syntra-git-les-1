@@ -4,4 +4,4 @@ Hello from GitHub.
 
 Hello from VS Code
 
-Hello from Git CLI.
+Hello from Git CLI
